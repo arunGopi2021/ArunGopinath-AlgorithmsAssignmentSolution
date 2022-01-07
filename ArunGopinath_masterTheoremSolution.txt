@@ -1,0 +1,13 @@
+a) Answer: Theta(n^1.58)
+
+
+b) Answer: NA
+
+
+c) Answer: NA
+
+
+d) Answer: Theta(n)
+
+
+e) Answer: Theta(n^2)
